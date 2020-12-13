@@ -1,0 +1,13 @@
+{
+  "usingComponents": {
+    "playground": "/pages/playground/home/home",
+    "userInfo": "/pages/userInfo/home/home",
+    "message": "/pages/message/home/home",
+    "activity": "/pages/activity/home/home",
+    "loading": "/pages/loading/loading"
+  },
+  "window": {
+    "backgroundTextStyle":"dark",
+    "enablePullDownRefresh": true
+  }
+}

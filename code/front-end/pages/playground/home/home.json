@@ -1,0 +1,10 @@
+{
+  "component": true,
+  "usingCompnent": {
+    "loading": "/pages/loading/loading"
+  },
+  "window": {
+    "backgroundTextStyle":"dark",
+    "enablePullDownRefresh": true
+  }
+}
